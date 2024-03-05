@@ -12,6 +12,7 @@ Desvio padrão: 2.83
 Coeficiente de variação: 57.52 %
 
 O Resultado da análise: 
+Neste caso o ideal seria não utilizar a média como métrica e sim a mediana pois a variação é de 57.52%
 
 intervalos
 (0.739,1.96]  (1.96,3.17]  (3.17,4.38]   (4.38,5.6]   (5.6,6.81]  (6.81,8.02] 
@@ -24,4 +25,4 @@ intervalos
 ![image](https://github.com/Diego-Oliveiras/analysis-wages1/assets/100659012/03ec8fa2-9355-47f8-8628-08fa54834c45)
 
 
-Neste caso o ideal seria não utilizar a média como métrica e sim a mediana pois a variação é de 57.52%
+
